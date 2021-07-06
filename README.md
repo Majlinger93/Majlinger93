@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Majlinger93
-- 👀 I’m interested in reading, playing video games, watching TV-series, movies or reading a good book
+- 👀 I’m interested in reading books, playing video games, watching TV-series, movies
 - 🌱 I’m currently learning Python
 
 <!---
